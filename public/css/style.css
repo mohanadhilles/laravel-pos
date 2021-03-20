@@ -1879,8 +1879,12 @@
     color: #fff !important; }
 
 .bg-pink {
-  background-color: #E91E63 !important;
-  color: #fff; }
+  background-color: #00db7d !important;
+  color: #fff;
+  padding: 20px 10px 20px 10px;
+  height: 30px;
+  line-height: 26px;
+ }
   .bg-pink .content .text,
   .bg-pink .content .number {
     color: #fff !important; }
